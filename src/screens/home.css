@@ -1,0 +1,46 @@
+#components-layout-demo-fixed .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.2);
+  }
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+
+  .container_event{
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .event_img{
+      height: 200px;
+      width: 226px;
+  }
+  .font-size{
+    /* font-size: 30px; */
+    height: 20px;
+  }
+
+  .styleCard{
+    margin: 14px 24px !important;
+    font-family: sans-serif;
+    height: 341px;
+    text-align: revert;
+    border-radius: 25px !important;
+    box-shadow: 0px 1px 19px 5px #ddd9d9;
+    width: 282px;
+  }
+  .time{
+    font-size: 13px;
+    padding-right: 9px;
+    margin: 0 3px;
+
+  }
+  .bold{
+  font-weight: 500 !important;
+  }
+  .my-4{
+    margin: 6px 50px !important;
+  }

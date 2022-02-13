@@ -1,0 +1,17 @@
+.login_div{
+    box-shadow: 2px 3px 20px -3px grey;
+    width: 600px;
+    border-radius: 10px;
+    margin: 50px auto;
+    border: 1px solid gray;
+    font-family: emoji;
+
+}
+.my-4{
+    margin-top: 20px;
+}
+
+.btn-green{
+    background-color: chartreuse !important;
+    margin: 30px 20px;
+}
